@@ -21,7 +21,7 @@ The csv file has three columns,"id",“review” and “sentiment”. The column
 
 
 
-## Functions used in the copy1.ipynb file##
+## Functions used in the copy1.ipynb file ##
 
 review_to_words : Function to convert a raw review to a string of words
                   # The input is a single string (a raw movie review), and 
